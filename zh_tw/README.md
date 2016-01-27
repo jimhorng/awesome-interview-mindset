@@ -120,6 +120,7 @@ _______________
 
 
 ##參考資料
-* [1] yoco: https://www.ptt.cc/bbs/Soft_Job/M.1447698467.A.9CC.html
-* [2] Hire a Top Performer Every Time with These Interview Questions
+* [1] [yoco:Ptt_Soft_Job_Re: [閒聊] 公司面試的基本禮貌](https://www.ptt.cc/bbs/Soft_Job/M.1447698467.A.9CC.html)
+* [2] [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
+* [3] [本文在github](https://goo.gl/1RNy7e)開放共同協作
 
